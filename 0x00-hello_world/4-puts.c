@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main-prints a sequence of charcters
- * Return
+ * main-printing a sequence of characters
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
