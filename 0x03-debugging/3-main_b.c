@@ -26,11 +26,11 @@ int main(void)
 
 	int year;
 
-	month = 4;
+	month = 02;
 
-	day = 01;
+	day = 29;
 
-	year = 1997;
+	year = 2000;
 
 
 
